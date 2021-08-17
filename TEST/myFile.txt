@@ -1,2 +1,3 @@
 this is my text file
 or was it?
+This is the 3rd line of text
